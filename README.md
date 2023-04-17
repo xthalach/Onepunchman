@@ -14,4 +14,4 @@ To use this machine we will need to introduce some username and password before 
 
 ## Download 
 
-[Onepunchmam](https://drive.google.com/file/d/1EzQv9FPCpkIVBdQ9sHVelql-Dvac4B_G/view?usp=share_link)
+[One punch man](https://drive.google.com/file/d/1EzQv9FPCpkIVBdQ9sHVelql-Dvac4B_G/view?usp=share_link)
